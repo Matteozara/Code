@@ -5,3 +5,4 @@ To do today:
 4) Write docs Visual Computing
 5) Write email Multi Modal Learning Group
 6) Publish videos social
+7) Modify DiMaio file
