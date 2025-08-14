@@ -1,4 +1,5 @@
 To do today:
-3) write or apply to new ETH position
-6) Publish videos social
-7) Modify DiMaio file
+- write Cover Letter and motivation
+- Modify DiMaio file
+- Create repo project
+- apply linkedin
